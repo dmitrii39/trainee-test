@@ -3,11 +3,13 @@
 }
 .screen_title {
   font-size: 24px;
+  margin-left: 16px;
 }
 .input_container {
   position: relative;
   width: 80%;
-  /* padding: 8 8 8 8; */
+  margin-left: 16px;
+  margin-bottom: 40px;
 }
 .search_icon {
   position: absolute;
@@ -31,5 +33,10 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.menu_block {
+  display: flex;
+  text-decoration: none;
 }
 
