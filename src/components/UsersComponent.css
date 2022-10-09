@@ -1,0 +1,44 @@
+.loading_avatar {
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  background-color: 'grey';
+}
+  
+  
+  
+  
+  
+  
+  
+  /* ------------------------------ */
+  .avatar_container {
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+  }
+  .user_content {
+    align-self: center;
+    margin-left: 16px;
+  }
+  .user_tag {
+    margin-left: 10px;
+    color: #55555C;
+    text-transform: lowercase;
+  }
+  .user_tag_name {
+    display: flex;
+  }
+  .user_name {
+    font-size: 16px;
+  }
+  .user_component {
+  display: flex;
+  margin-left: 16px;
+  margin-bottom: 12px;
+  }
+  .user_position {
+  /* margin-left: 16px; */
+  font-size: 13px;
+  color: #55555C;
+  }

@@ -1,0 +1,11 @@
+.Error_container {
+    display: flex;
+    flex-direction: column;
+    width: 343px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ufo_styles {
+    margin: 0 auto;
+}
